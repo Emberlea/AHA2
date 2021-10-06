@@ -1,0 +1,13 @@
+.a{
+    color:antiquewhite;
+    text-shadow: #0032bb 0 0 10px;
+}
+.b{
+    color:antiquewhite;
+    text-shadow:rgb(100, 5, 92) 0 0 10px;
+}
+body{
+    font-family: 'Lobster';
+    background-image: url('https://wallpaperaccess.com/full/3418567.jpg');
+    background-size:100%;
+}
